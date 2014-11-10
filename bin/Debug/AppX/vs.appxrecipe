@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PRAYASH</Machine>
+    <WindowsUser>Prayash</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>21cabd44-d9f1-493e-8877-1180499d1b25</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Prayash\Desktop\tourist version 4\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1D9BC79667EF3C1DBEB6B8E95ACA54625CE86033EA83FD87BB97D019A746BAE6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>21cabd44-d9f1-493e-8877-1180499d1b25_1.0.0.0_neutral__wkbqm3a0n06q2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>21cabd44-d9f1-493e-8877-1180499d1b25_wkbqm3a0n06q2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>21cabd44-d9f1-493e-8877-1180499d1b25</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ASUS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Prayash\Desktop\tourist version 4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-10T12:14:29.171</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\bin\Debug\tourist app ver 4.exe">
+      <PackagePath>tourist app ver 4.exe</PackagePath>
+      <Modified>2014-11-10T12:14:27.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-10T12:13:41.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-10T12:13:41.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-10T12:13:41.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-10T12:13:41.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-10T12:14:27.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-10T12:14:27.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\bin\Debug\tourist app ver 4.xr.xml">
+      <PackagePath>tourist app ver 4.xr.xml</PackagePath>
+      <Modified>2014-11-10T12:14:26.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Prayash\Desktop\tourist version 4\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-10T12:14:28.678</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
